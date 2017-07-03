@@ -1,0 +1,24 @@
+{
+  "name": "javascript-directory",
+  "description": "a description",
+  "main": "index.js",
+  "authors": [
+    "Hunter",
+    "Connor"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
