@@ -1,16 +1,16 @@
 {
-  "name": "javascript-directory",
+  "name": "to-do-list-angular-2",
   "description": "a description",
   "main": "index.js",
   "authors": [
-    "Hunter",
+    "Isabella",
     "Connor"
   ],
   "license": "ISC",
   "keywords": [
     "test"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/conesgnomes/angular-to-do",
   "ignore": [
     "**/.*",
     "node_modules",
